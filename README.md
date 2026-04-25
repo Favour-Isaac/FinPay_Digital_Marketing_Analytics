@@ -1,2 +1,2 @@
 # FinPay_Digital_Marketing_Analytics
-![FinPay Logo](Finpay Digital logo.png)
+![FinPay Logo] (assets/finpay_logo.png)
