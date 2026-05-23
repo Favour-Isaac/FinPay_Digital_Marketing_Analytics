@@ -1,0 +1,7 @@
+﻿campaign_id,campaign_name,channel_id,campaign_objective,start_date,end_date, budget 
+CMP-001,New Year Start Smart,CH-001,Acquisition,2026-01-01,2026-01-14,5000000
+CMP-002,Cashback Boost,CH-002,Activation,2026-01-10,2026-01-24,4200000
+CMP-003,Refer & Earn,CH-004,Acquisition,2026-01-05,2026-02-05,3000000
+CMP-004,Win-Back Users,CH-005,Retention,2026-02-01,2026-02-18,2500000
+CMP-005,Card Activation,CH-003,Product Adoption,2026-02-10,2026-03-02,4800000
+CMP-006,Trust & Security,CH-002,Conversion,2026-03-01,2026-03-20,3500000

@@ -1,0 +1,25 @@
+ad_id,campaign_id,ad_name,ad_type,creative_type,cta,launch_date 
+AD-001,CMP-001,New Year Launch Video,Video,Awareness,Sign Up,2026-01-01
+AD-002,CMP-001,Savings Promo Image,Image,Promotion,Get Started,2026-01-03
+AD-003,CMP-001,Quick Signup Carousel,Carousel,Conversion,Sign Up,2026-01-05
+AD-004,CMP-001,Lifestyle Banner,Image,Awareness,Learn More,2026-01-07
+AD-005,CMP-002,Cashback Display Ad,Image,Promotion,Claim Cashback,2026-01-10
+AD-006,CMP-002,Cashback Video,Video,Promotion,Get Reward,2026-01-12
+AD-007,CMP-002,Search Text Ad,Text,Conversion,Sign Up,2026-01-14
+AD-008,CMP-002,Offer Highlight Ad,Image,Conversion,Get Started,2026-01-16
+AD-009,CMP-003,Invite Friends Banner,Image,Referral,Invite Friends,2026-01-06
+AD-010,CMP-003,Referral Promo Card,Image,Promotion,Earn Rewards,2026-01-08
+AD-011,CMP-003,Referral Explainer,Video,Awareness,Learn More,2026-01-10
+AD-012,CMP-003,Social Proof Ad,Image,Trust,Join Now,2026-01-12
+AD-013,CMP-004,Come Back Email,Text,Retention,Come Back,2026-02-01
+AD-014,CMP-004,Miss You Offer,Text,Promotion,Get Started,2026-02-03
+AD-015,CMP-004,Reactivation Reminder,Text,Retention,Resume Activity,2026-02-05
+AD-016,CMP-004,Limited Offer Email,Text,Conversion,Claim Offer,2026-02-07
+AD-017,CMP-005,Card Benefits Video,Video,Product,Activate Card,2026-02-12
+AD-018,CMP-005,Card Usage Demo,Video,Awareness,Learn More,2026-02-14
+AD-019,CMP-005,Lifestyle Reel,Video,Promotion,Get Card,2026-02-16
+AD-020,CMP-005,Card Highlight Image,Image,Product,Apply Now,2026-02-18
+AD-021,CMP-006,Secure Payments Ad,Image,Trust,Learn More,2026-03-01
+AD-022,CMP-006,Security Video,Video,Trust,Stay Secure,2026-03-03
+AD-023,CMP-006,Trust Badge Banner,Image,Awareness,Explore,2026-03-05
+AD-024,CMP-006,Protection Message,Text,Conversion,Sign Up,2026-03-07
