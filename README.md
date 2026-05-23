@@ -35,9 +35,6 @@ Evaluated campaign effectiveness using impressions, clicks, and conversions to i
 ### 3. Customer Journey Conversion Efficiency
 Measured funnel performance from impressions → clicks → conversions to identify drop-off points and inefficiencies in the customer journey.
 
-### 4. Time-Based Performance Trends
-Analyzed how marketing performance changes over time to identify trends, peak periods, and campaign performance fluctuations.
-
 ---
 
 ## 📈 Key Insights
